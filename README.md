@@ -1,6 +1,6 @@
 # What is this?
 
-This repo contains my solution of assignment in [2011 Stanford Machine Learning Class](http://www.ml-class.org).
+This repo contains my solution of assignment in [2019 Stanford Machine Learning Class](http://www.ml-class.org).
 If you are taking the class, fork my repo and puth different solutions in a different branch.
 HOWEVER, please DO NOT refer any code in my repo before the due date and NEVER post any code in my repo according to "Stanford Honer Code" below.
 Questions or pointing out is always welcome, please send me a mail.
@@ -13,11 +13,6 @@ Questions or pointing out is always welcome, please send me a mail.
 ## License
 
 All Solutions licensed under MIT License. See LICENSE.txt for further details.
-
-
-## Copyright
-
-Copyright (c) 2011 [everpeace](http://twitter.com/everpeace).
 
 
 ## Other Notable Open Source ml-class Sources
